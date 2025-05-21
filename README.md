@@ -72,6 +72,6 @@ Metrics:
 ## Citation
 
 If you use this work in your research, please cite:
-
-<pre> Z. Feng, H. Chen, L. Chen, H. Li and X. Mou, "Path Planning Algorithm Comparison Analysis for Wireless AUVs Energy Sharing System," IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society, Singapore, Singapore, 2023, pp. 1-6, doi: 10.1109/IECON51785.2023.10311674. keywords: {Wireless communication;Costs;Navigation;Oceans;Simulation;Roads;Stars;Wireless Charging;AUVs;Path Planning;Irregular obstacles;Narrow area;RRT*;PSO} 
-</pre>
+```bash
+Z. Feng, H. Chen, L. Chen, H. Li and X. Mou, "Path Planning Algorithm Comparison Analysis for Wireless AUVs Energy Sharing System," IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society, Singapore, Singapore, 2023, pp. 1-6, doi: 10.1109/IECON51785.2023.10311674. keywords: {Wireless communication;Costs;Navigation;Oceans;Simulation;Roads;Stars;Wireless Charging;AUVs;Path Planning;Irregular obstacles;Narrow area;RRT*;PSO} 
+```
