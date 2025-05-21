@@ -15,15 +15,15 @@ The proposed wireless energy sharing system allows:
 - Nearby supplier AUVs to respond based on distance, energy availability, and type.
 - An algorithm to plan optimal paths for energy delivery while avoiding obstacles.
 
-
 <table>
   <tr>
-    <td><img src="pictures/RRT-star.png" alt="RRT*" width="400"/></td>
     <td><img src="pictures/PSO.png" alt="PSO" width="400"/></td>
+    <td><img src="pictures/RRT-star.png" alt="RRT*" width="400"/></td>
+
   </tr>
   <tr>
-    <td align="center">Fig. 1: RRT* Path</td>
-    <td align="center">Fig. 2: PSO Path</td>
+    <td align="center">Fig. 1: PSO Path</td>
+    <td align="center">Fig. 2: RRT* Path</td>
   </tr>
 </table>
 
