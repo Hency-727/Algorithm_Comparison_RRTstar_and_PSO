@@ -18,8 +18,8 @@ The proposed wireless energy sharing system allows:
 
 <table>
   <tr>
-    <td><img src="pictures/RRT-star.png" alt="RRT*" width="300"/></td>
-    <td><img src="pictures/PSO.png" alt="PSO" width="300"/></td>
+    <td><img src="pictures/RRT-star.png" alt="RRT*" width="400"/></td>
+    <td><img src="pictures/PSO.png" alt="PSO" width="400"/></td>
   </tr>
   <tr>
     <td align="center">Fig. 1: RRT* Path</td>
@@ -56,15 +56,9 @@ Metrics:
 
 ### Key Results
 
-- **RRT\*** has shorter average path lengths but higher variance in time.
-- **PSO** offers better real-time performance and smoother paths but may fail to find optimal or feasible paths in some edge cases.
-- In complex, narrow environments, PSO performs more robustly.
-
-| Case | RRT* Success | PSO Success | RRT* Length | PSO Length |
-|------|--------------|-------------|-------------|-------------|
-| 1    | ✅            | ✅           | 67.73       | 56.01       |
-| 5    | ✅            | ❌           | 56.52       | -           |
-| 6    | ❌            | ❌           | -           | -           |
+- **RRT\* has shorter average path lengths but higher variance in time.**
+- **PSO offers better real-time performance and smoother paths but may fail to find optimal or feasible paths in some edge cases.**
+- **In complex, narrow environments, PSO performs more robustly.**
 
 > See full evaluation in `Section IV` of the paper.
 
@@ -79,5 +73,5 @@ Metrics:
 
 If you use this work in your research, please cite:
 
-> Zhengji Feng, Hengxiang Chen, Liqun Chen, Heyan Li, Xiaolin Mou, "Path Planning Algorithm Comparison Analysis for Wireless AUVs Energy Sharing System," 49th Annual Conference of the IEEE Industrial Electronics Society, 2023. DOI: [10.1109/IECON51785.2023.10311674](https://)
-
+<pre> Z. Feng, H. Chen, L. Chen, H. Li and X. Mou, "Path Planning Algorithm Comparison Analysis for Wireless AUVs Energy Sharing System," IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society, Singapore, Singapore, 2023, pp. 1-6, doi: 10.1109/IECON51785.2023.10311674. keywords: {Wireless communication;Costs;Navigation;Oceans;Simulation;Roads;Stars;Wireless Charging;AUVs;Path Planning;Irregular obstacles;Narrow area;RRT*;PSO} 
+</pre>
